@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **divakarkumar424@gmail.com**
 
-- ⚡ Fun fact **I play games and go to the GYM very often.**
+- ⚡ Fun fact **I play games and watching web series.**
 
 ## 🚀 Languages and Tools:
 
