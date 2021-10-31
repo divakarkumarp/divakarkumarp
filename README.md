@@ -1,4 +1,4 @@
-<a href="#"><img width="100%" height="auto" src="https://user-images.githubusercontent.com/32620288/139586910-fae9fc93-5b21-4ac5-ada7-9b412cf73f04.jpg" height="175px"/></a>
+<a href="#"><img width="100%" height="auto" src="https://user-images.githubusercontent.com/32620288/139587415-72dfb08b-a654-43da-a522-1f9a7ba01b7f.png" height="175px"/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Divakar Kumar</h1>
 <h3 align="center">I'm a passionate Data Scientist from India.</h3>
