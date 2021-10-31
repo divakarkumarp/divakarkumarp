@@ -1,6 +1,6 @@
-<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
+<a href="#"><img width="100%" height="auto" src="https://user-images.githubusercontent.com/32620288/139570568-7d096077-27cb-4d56-ba9c-ca622cbad0cd.png" height="175px"/></a>
 
-<h1 align="center">Hi <img src="https://user-images.githubusercontent.com/32620288/139570568-7d096077-27cb-4d56-ba9c-ca622cbad0cd.png" width="30px">, I'm DIvakar Kumar</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm DIvakar Kumar</h1>
 <h3 align="center">I'm a passionate Full Stack Developer from India.</h3>
 
 
