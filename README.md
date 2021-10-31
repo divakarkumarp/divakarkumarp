@@ -57,8 +57,7 @@
 <a href = "https://www.linkedin.com/in/divakarkumarp/"><img src="https://img.icons8.com/color/48/000000/linkedin.png"/></a>
 <a href = "https://twitter.com/dvkumarp"><img src="https://img.icons8.com/color/48/000000/twitter--v1.png"/></a>
 <a href = "https://www.instagram.com/dvkumarpandey/"><img src="https://img.icons8.com/color/48/000000/instagram-new--v1.png"/></a>
-<a href = "https://medium.com/@divakarkpandey"><img src="https://img.icons8.com/color/48/000000/medium-logo--v2.png"/></a>
-<a href = "https://www.hackerrank.com/divakarkumar424"><img src="https://img.icons8.com/windows/64/000000/hackerrank.png"/></a>
+<a href = "https://medium.com/@divakarkpandey"><img src="https://img.icons8.com/color/48/000000/medium-monogram.png"/></a>
 
 </p>
 
