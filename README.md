@@ -54,17 +54,12 @@
 ## Connect with me:
 <p align="left">
 
-<a href = "https://www.linkedin.com/in/subham-raoniar/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://twitter.com/subhamraoniar"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
-<a href = "https://www.instagram.com/subhamraoniar/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-<a href = "https://www.youtube.com/channel/UC-NXT1lYAOPa3lrgWXqvuHA"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
-<li class="nav-item"><a class="nav-link" href="https://twitter.com/dvkumarp" title="Twitter"><i class="fab fa-twitter"></i><span class="menu-title sr-only">Twitter</span></a></li>
-                  <li class="nav-item"><a class="nav-link" href="https://www.facebook.com/dvkumarpandey/" title="Facebook"><i class="fab fa-facebook"></i><span class="menu-title sr-only">Facebook</span></a></li>
-                  <li class="nav-item"><a class="nav-link" href="https://www.instagram.com/dvkumarpandey/" title="Instagram"><i class="fab fa-instagram"></i><span class="menu-title sr-only">Instagram</span></a></li>
-                  <li class="nav-item"><a class="nav-link" href="https://www.linkedin.com/in/divakarkumarp/" title="LinkedIn"><i class="fab fa-linkedin"></i><span class="menu-title sr-only">LinkedIn</span></a></li>
-                  <li class="nav-item"><a class="nav-link" href="https://www.behance.net/templateflip" title="medium"><i class="fab fa-medium"></i><span class="menu-title sr-only">Behance</span></a></li>
-                  <li class="nav-item"><a class="nav-link" href="https://www.behance.net/templateflip" title="GiHub"><i class="fab fa-github-square"></i><span class="menu-title sr-only">Behance</span></a></li>
-                  <li class="nav-item"><a class="nav-link" href="https://www.behance.net/templateflip" title="Kaggle"><i class="fab fa-kaggle"></i><span class="menu-title sr-only">Behance</span></a></li>
+<a href = "https://www.linkedin.com/in/divakarkumarp/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://twitter.com/dvkumarp"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
+<a href = "https://www.instagram.com/dvkumarpandey/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+<a href = "https://www.instagram.com/dvkumarpandey/"><<img src="https://img.icons8.com/ios-glyphs/50/000000/medium-monogram.png"/>
+
+
 </p>
 
 ## ❤ Views and Followers
