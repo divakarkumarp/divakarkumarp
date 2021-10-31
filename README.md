@@ -1,4 +1,4 @@
-<a href="#"><img width="100%" height="400" src="https://user-images.githubusercontent.com/32620288/139571553-0f576108-45d7-4933-bc20-4dcc8fb4b1ef.png" height="175px"/></a>
+<a href="#"><img width="100%" height="auto" src="https://user-images.githubusercontent.com/32620288/139571553-0f576108-45d7-4933-bc20-4dcc8fb4b1ef.png" height="175px"/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Divakar Kumar</h1>
 <h3 align="center">I'm a passionate Full Stack Developer from India.</h3>
