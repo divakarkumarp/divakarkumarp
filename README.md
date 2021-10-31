@@ -55,9 +55,9 @@
 <p align="left">
 
 <a href = "https://www.linkedin.com/in/divakarkumarp/"><img src="https://img.icons8.com/color/48/000000/linkedin.png"/></a>
-<a href = "https://twitter.com/dvkumarp"><a href="https://icons8.com/icon/13963/twitter">Twitter icon by Icons8</a>
-<a href = "https://www.instagram.com/dvkumarpandey/"><a href="https://icons8.com/icon/32323/instagram">Instagram icon by Icons8</a>
-<a href = "https://medium.com/@divakarkpandey"><a href="https://icons8.com/icon/35858/medium-monogram">Medium Monogram icon by Icons8</a>
+<a href = "https://twitter.com/dvkumarp"><img src="https://img.icons8.com/color/48/000000/twitter--v1.png"/></a>
+<a href = "https://www.instagram.com/dvkumarpandey/"><img src="https://img.icons8.com/color/48/000000/instagram-new--v1.png"/></a>
+<a href = "https://medium.com/@divakarkpandey"><img src="https://img.icons8.com/color/48/000000/medium-monogram.png"/></a>
 
 
 </p>
