@@ -1,4 +1,4 @@
-<a href="###"><img width="100%" height="auto" src="https://user-images.githubusercontent.com/32620288/139570942-a76afed3-870b-46f1-aae0-343f4714588d.png" height="10px"/></a>
+<a href="#"><img width="100%" height="auto" src="https://user-images.githubusercontent.com/32620288/139570942-a76afed3-870b-46f1-aae0-343f4714588d.png" height="175px"/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Divakar Kumar</h1>
 <h3 align="center">I'm a passionate Full Stack Developer from India.</h3>
@@ -8,13 +8,13 @@
 
 - 🔭 I’m currently working on **[Covid-19 Tracker](https://covid-19-tracker-e4bda.web.app/)**
 
-- 🌱 I’m currently learning **Data Structures and Algorithms.**
+- 🌱 I’m currently learning **Deep learning and Algorithms.**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
-- 👨‍💻 All of my projects are available at **[My Portfolio](https://subhamraoniar.com)**
+- 👨‍💻 All of my projects are available at **[My Portfolio]()**
 
-- 📫 How to reach me **subham.raoniar@gmail.com**
+- 📫 How to reach me **divakarkumar424@gmail.com**
 
 - ⚡ Fun fact **I play games and go to the GYM very often.**
 
