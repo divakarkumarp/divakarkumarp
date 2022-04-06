@@ -43,7 +43,7 @@
     <a href="https://www.java.com/en/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/></a>
     <a href="https://flask.palletsprojects.com/en/2.0.x/" target="_blank"> <img src="https://img.icons8.com/nolan/50/flask.png"/></a>
     <a href="https://www.postman.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="35" height="35"/></a>
-    <a href="https://www.djangoproject.com/" target="_blank"> <img src="https://img.icons8.com/ios-filled/50/000000/django.png" alt="django" width="40" height="40"/></a>
+    <a href="https://www.djangoproject.com/" target="_blank"> <img src="https://img.icons8.com/ios-filled/150/000000/django.png" width="40" height="40"/></a>
 
 
 </p>
