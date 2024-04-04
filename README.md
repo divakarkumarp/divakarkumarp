@@ -1,7 +1,7 @@
 <a href="#"><img width="100%" height="auto" src="https://github.com/divakarkumarp/divakarkumarp/assets/32620288/9323c11a-7479-425e-8a23-71893d5ce501" height="175px"/></a>
 
 <h1 align="center">Hi 👋, I'm Divakar Kumar</h1>
-<h3 align="center">A passionate Data Scientist from India </h3>
+<h3 align="center">A Passionate Data Scientist from India </h3>
 
 
 - 🌱 I’m currently learning **Transformers, LLMs and GenAI.**
